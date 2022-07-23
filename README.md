@@ -2,23 +2,25 @@
 codedrifts/codedrifts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="center"> :wave: Heyya! I'm Sankarshana! </h2>
+<h1 align="center"> :wave: Heyya! I'm Sankarshana! </h1>
 <p align="center">
   <a href="https://github.com/codedrifts/" target="_blank" rel="noreferrer"><img src="https://github.com/codedrifts/codedrifts/blob/main/assets/myfinal.png" alt="my banner"></a>
 </p>
-<h3 align="center"> I'm a Software Engineer 💻, Content Writer ✍️, UI/UX Designer 🎨, Photographer 📸 </h3>
+<h2 align="center"> I'm a Software Engineer 💻, Content Writer ✍️, UI/UX Designer 🎨, Photographer 📸 </h2>
 
-### 🤝 Connect with me: <h5>Click badges to open the links</h5>
-<div style="display:inline-block;align:center">
-<a href="mailto:hoolisankarshana@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="80"/></a>
-<a href="https://www.linkedin.com/in/sankarshanaa/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a>
-<a href="https://medium.com/@hoolisankarshana"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="100px"/></a>
-<a href="https://twitter.com/codedrifts"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="100px"/></a>
-<a href="https://www.codedrifts.com"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="100px"/></a>
+### 🤝 Connect with me:
+<div align="center">
+  <h5>Click badges to open the links</h5>
+<a href="mailto:hoolisankarshana@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="80"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/sankarshanaa/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px"/></a> &nbsp;
+<a href="https://medium.com/@hoolisankarshana"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="100px"/></a> &nbsp;
+<a href="https://twitter.com/codedrifts"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="100px"/></a> &nbsp;
+<a href="https://www.codedrifts.com"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="100px"/></a> &nbsp;
 </div>
 <br/>
 
-### 👨🏻‍💻 &nbsp;About Me</h3>
+
+## 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and creating!
 - 🎓 &nbsp; Studying Computer Science and Mathematics at AMC Engineering College, Bangalore.
@@ -70,5 +72,5 @@ You can click the Preview link to take a look at your changes.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedrifts&theme=tokyonight&layout=compact" />
   <br/><br/>
-  <img style="text-align:center;" height="30em" src="https://visitor-badge.glitch.me/badge?page_id=codedrifts.codedrifts" />
+<!--   <img style="text-align:center;" height="30em" src="https://visitor-badge.glitch.me/badge?page_id=codedrifts.codedrifts" /> -->
 </a>
