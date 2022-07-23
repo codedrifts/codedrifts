@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 #### 📈 Github Stack:
-<a href="https://github.com/codedriffts">
+<a href="https://github.com/codedrifts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedrifts&count_private=true&theme=tokyonight&show_icons=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedrifts&theme=tokyonight&layout=compact" />
