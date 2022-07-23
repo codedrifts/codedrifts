@@ -2,7 +2,7 @@
 codedrifts/codedrifts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> :wave: Heyya!<br/>I'm Sankarshana! </h1>
+<h1 align="center">:wave: Heyya!<br/>I'm Sankarshana</h1>
 <p align="center">
   <a href="https://github.com/codedrifts/" target="_blank" rel="noreferrer"><img src="https://github.com/codedrifts/codedrifts/blob/main/assets/myfinal.png" alt="my banner"></a>
 </p>
