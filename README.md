@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/codedrifts"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="100px"/></a>
 <a href="https://www.codedrifts.com"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="100px"/></a>
 </div>
-</br>
+<br/>
 
 ### 👨🏻‍💻 &nbsp;About Me</h3>
 
