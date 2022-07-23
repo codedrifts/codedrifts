@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2 align="center"> :wave: Heyya! I'm Sankarshana! </h2>
 <p align="center">
-  <a href="https://github.com/codedrifts/" target="_blank" rel="noreferrer"><img src="https://github.com/codedrifts/codedrifts/blob/main/assets/Black%20and%20Blue%20Modern%20and%20Futuristic%20Education%20Tech%20Banner%20Store.png" alt="my banner"></a>
+  <a href="https://github.com/codedrifts/" target="_blank" rel="noreferrer"><img src="https://github.com/codedrifts/codedrifts/blob/main/assets/myfinal.png" alt="my banner"></a>
 </p>
 <h3 align="center"> I'm a Software Engineer 💻, Content Writer ✍️, UI/UX Designer 🎨, Photographer 📸 </h3>
 
@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.codedrifts.com"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" width="100px"/></a>
 </div>
 </br>
-<h3>👨🏻‍💻&nbsp;About Me</h3>
+
+### 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and creating!
 - 🎓 &nbsp; Studying Computer Science and Mathematics at AMC Engineering College, Bangalore.
@@ -25,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 🌊 &nbsp; I’m interested in Blockchain, Machine Learning and Artificial Intelligence, Cloud Architecture, Systems Design
 - 📜 &nbsp; Web App Development, writing are my hobbies. Creating worthwhile projects!
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack</h3>
 
 - ⚛️ &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -63,9 +64,8 @@ You can click the Preview link to take a look at your changes.
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-## 📈 Github Stack:
-
-<a href="https://github.com/Shivang-stack">
+#### 📈 Github Stack:
+<a href="https://github.com/codedriffts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedrifts&count_private=true&theme=tokyonight&show_icons=true" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedrifts&theme=tokyonight&layout=compact" />
